@@ -23,13 +23,13 @@ If you want to use template data, you can seed the tables with npm run seed.  Th
 The e-commerce back end program can be used to implement CRUD methods to an inventory for a e-commerce site. A video of how the program operates and testing through Insomnia Core can be seen [here](https://drive.google.com/file/d/1Fhs_aSaBLd660T4aO3yF6qxePXR_z8RG/view).
 
 Screenshot showing Insomnia Core output for retrieving products:
-![Products Screenshot](/img/Screenshot_products.png "E-Commerce Product Results")
+![Products Screenshot](/img/Screenshot-products.png "E-Commerce Product Results")
 
 Screenshot showing Insomnia Core output for retrieving categories:
-![Categories Screenshot](/img/Screenshot_categories.png "E-Commerce Category Results")
+![Categories Screenshot](/img/Screenshot-categories.png "E-Commerce Category Results")
 
 Screenshot showing Insomnia Core output for retrieving tags:
-![Tags Screenshot](/img/Screenshot_tags.png "E-Commerce Tag Results")
+![Tags Screenshot](/img/Screenshot-tags.png "E-Commerce Tag Results")
 
 
 ## Questions
